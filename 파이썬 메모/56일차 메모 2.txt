@@ -462,15 +462,3 @@ cursor=connection.cursor()
 root.mainloop()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
