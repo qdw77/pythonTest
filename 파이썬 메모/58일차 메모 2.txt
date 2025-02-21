@@ -6,3 +6,5 @@ DB/ UI / 서버
 
 DB / GUI / sever / 클라이언트 
 exd 파일 배포(서버 베포)
+
+erp < 구매오더 / 회계
